@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using ProyectoI_MoisesNavarro.Models;
+using MvcMovie.Models;
 
-namespace ProyectoI_MoisesNavarro.Controllers;
+namespace MvcMovie.Controllers;
 
 public class HomeController : Controller
 {
